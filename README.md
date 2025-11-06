@@ -61,8 +61,25 @@ numpy
 
 ---
 
+🎥 Demo Video
+
+You can watch the project in action here:
+
+▶ [Click to watch Face.mp4](./Face.mp4)
+
+Or download directly from this repository.
+
+---
+
 
 ✅ Conclusion
 
 This project demonstrates a simple and efficient face detection system using OpenCV and Streamlit. It successfully detects faces in images and provides a user-friendly interface. This serves as a good foundation for beginners and can be further improved with real-time webcam detection or advanced deep learning models.
 
+---
+
+👨‍💻 Author
+👤 Kousik Chakraborty
+📧 Email: www.kousik.c.in@gmail.com
+🔗 GitHub Profile: https://github.com/iamkousikc-create18
+🔗 Project Repository: https://github.com/iamkousikc-create18/Face-Detection
